@@ -1,0 +1,48 @@
+.App{
+  background-image: url('dollars-499481_960_720.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.titulo-header{
+  color: white;
+  text-shadow: 2px 2px 4px black;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 5% ;
+} 
+
+.formulario{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.button-primary{
+  background-color: black !important;
+  border-color: blanchedalmond !important;
+}
+
+.boton{
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 54px !important;
+}
+
+.boton:hover{
+  background-color: white !important;
+  color: black !important;
+}
+.total{
+  width: 60%;
+  margin: 0 auto;
+  background-color: rgba(252, 252, 252, 0.7);
+  padding: 5%;
+  border-radius: 10px;
+  height: auto;
+}
+
+.mensaje, .resultado{
+  text-align: center;
+  font-weight: 700;
+
+}
